@@ -1,24 +1,18 @@
-![logo]()                         
 <h1 align="center">Hi 👋, Everyone !!</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img  align="right" alt="coding"width="400"src=https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priti-vikram12&label=Profile%20views&color=0e75b6&style=flat" alt="priti-vikram12" /> </p>
+<p align = "center"><img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFA550&size=25&center=true&vCenter=true&width=500&height=100&lines=IT+Engineering+Student;Always+learning+new+things"></p>
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
+<img  align="right" alt="coding" width="400" src= https://media.tenor.com/YhA5nO9jiCkAAAAM/ika-musume.gif>
+
 
 - My name is Priti Vikram and i'm currently persuing BTech in IT from S.R. Institute of Management and Technology/ Abdul Kalam Technical 
   University
 - 🌱 I’m currently learning **MERN full stack development**
 - 💬 Ask me about *HTML, CSS, JS, React.js.
- 
-- ### 📫 How to reach me 
-
-- [Email](pritivikra9569@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/preeti-vikram-12a476280?)
- 
-- 📄 Know about my experiences
-- [resume ](https://drive.google.com/file/d/1IOgpe8ASGJDQi8HxNPet8d_q35TiwJ53/view?usp=drivesdk)
+- 📫 How to reach me <br>   - [Email](pritivikra9569@gmail.com) <Br> -[LinkedIn](https://www.linkedin.com/in/preeti-vikram-12a476280?)
+- 📄 Know about my experiences<br>- [resume ](https://drive.google.com/file/d/1IOgpe8ASGJDQi8HxNPet8d_q35TiwJ53/view?usp=drivesdk)
 
 
 <!-- - *Portfolio:* [Portfolio]() -->
@@ -43,6 +37,9 @@
 Feel free to explore my repositories, and let's embark on a journey of building something extraordinary! 🚀✨
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283932715-9307f2e9-03b3-4b2f-afc4-17f425b4a8ab.gif" width = 50px>&nbsp;&nbsp; My Github Stats
+
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=priti-vikram12&label=Profile%20views&color=0e75b6&style=flat" alt="priti-vikram12" /> </p>
+
 <table>
   <tr>
      <td align="center">
@@ -54,7 +51,7 @@ Feel free to explore my repositories, and let's embark on a journey of building 
 </table>    
         
 
-# <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269538977-6fcc0b23-7e1d-486d-a645-af95004682f8.gif" width = 37px>&nbsp;&nbsp; Coding Profiles
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269538977-6fcc0b23-7e1d-486d-a645-af95004682f8.gif" width = 37px>&nbsp;&nbsp; Coding Profiles
 
 <p align = "left">
   <a href="https://www.hackerrank.com/@preetivikram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@preetivikram" height="30" width="40" /></a>
