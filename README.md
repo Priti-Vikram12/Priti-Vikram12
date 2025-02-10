@@ -1,3 +1,4 @@
+<img src="https://github.com/Priti-Vikram12/Priti-Vikram12/blob/main/priti.png">
 <h1 align="center">Hi 👋, Everyone !!</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
