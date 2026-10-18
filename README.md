@@ -8,7 +8,7 @@
 <img  align="right" alt="coding" width="400" src= https://media.tenor.com/YhA5nO9jiCkAAAAM/ika-musume.gif>
 
 
-- My name is Priti Vikram and i'm currently persuing BTech in IT from S.R. Institute of Management and Technology/ Abdul Kalam Technical 
+- My name is Priti Vikram and i'm currently passout BTech in IT from S.R. Institute of Management and Technology/ Abdul Kalam Technical 
   University
 - 🌱 I’m currently learning **MERN full stack development**
 - 💬 Ask me about *HTML, CSS, JS, React.js.
